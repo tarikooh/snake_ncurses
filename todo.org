@@ -1,0 +1,6 @@
+* TODO create a separate window for socre
+* TODO play with arrow keys instead wsad
+* TODO the ball should always appear outside the snake body
+* TODO create a start menu
+* TODO feature: restart after the game ends
+* TODO feature: changing the difficuly
